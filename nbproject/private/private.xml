@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/tac1/resources/views/admin/layout/auth.blade.php</file>
+            <file>file:/var/www/html/tac1/resources/views/user/tacrequest.blade.php</file>
+            <file>file:/var/www/html/tac1/resources/views/elements/compare.blade.php</file>
+            <file>file:/var/www/html/tac1/routes/web.php</file>
+            <file>file:/var/www/html/tac1/app/Http/Controllers/TacController.php</file>
+            <file>file:/var/www/html/tac1/resources/views/admin/includes/footer.blade.php</file>
+            <file>file:/var/www/html/tac1/app/Http/Controllers/RequestController.php</file>
+            <file>file:/var/www/html/tac1/resources/views/elements/compare-data.blade.php</file>
+            <file>file:/var/www/html/tac1/app/Http/Controllers/UserdetailController.php</file>
+            <file>file:/var/www/html/tac1/app/Http/Controllers/ChangedataController.php</file>
+            <file>file:/var/www/html/tac1/public/js/home.js</file>
+            <file>file:/var/www/html/tac1/resources/lang/fr/home.php</file>
+            <file>file:/var/www/html/tac1/resources/views/layouts/admin-layout.blade.php</file>
+            <file>file:/var/www/html/tac1/app/Http/Controllers/SortController.php</file>
+            <file>file:/var/www/html/tac1/app/Http/Controllers/CampareController.php</file>
+            <file>file:/var/www/html/tac1/resources/lang/en/pagination.php</file>
+            <file>file:/var/www/html/tac1/resources/views/home/includes/sidebar.blade.php</file>
+            <file>file:/var/www/html/tac1/resources/views/index.blade.php</file>
+            <file>file:/var/www/html/tac1/resources/views/elements/product-item.blade.php</file>
+            <file>file:/var/www/html/tac1/config/app.php</file>
+            <file>file:/var/www/html/tac1/resources/views/includes/footer.blade.php</file>
+            <file>file:/var/www/html/tac1/resources/views/home/includes/footer.blade.php</file>
+            <file>file:/var/www/html/tac1/resources/lang/nl/home.php</file>
+            <file>file:/var/www/html/tac1/resources/views/home/includes/header.blade.php</file>
+            <file>file:/var/www/html/tac1/public/css/style.css</file>
+            <file>file:/var/www/html/tac1/resources/views/home/index.blade.php</file>
+            <file>file:/var/www/html/tac1/resources/lang/en/home.php</file>
+            <file>file:/var/www/html/tac1/app/Http/Controllers/ProductController.php</file>
+        </group>
+    </open-files>
+</project-private>
